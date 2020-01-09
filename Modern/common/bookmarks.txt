@@ -27,8 +27,8 @@ bookmark =
 
 bookmark =
 {
-	name = "NWO_NAME"
-	desc = "NWO_DESC"
+	name = "TODAY_NAME"
+	desc = "TODAY_DESC"
 	date = 2020.1.1
 	cameraX = 2950 
 	cameraY = 1550
