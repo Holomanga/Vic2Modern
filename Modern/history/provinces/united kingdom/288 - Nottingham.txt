@@ -1,6 +1,8 @@
-
-
-
 trade_goods = coal
 life_rating = 35
-1861.1.1 = { railroad = 4 }
+
+1801.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	}
