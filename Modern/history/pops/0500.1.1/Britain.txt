@@ -1,0 +1,2263 @@
+#Great Britan
+#Anglo-Saxon Kingdoms (Tribal)
+301 = { #Kent
+	farmers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10000
+	}
+
+	artisans = {
+		culture = anglo_saxon
+		religion = animist
+		size = 1000
+	}
+
+	soldiers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 1000
+	}
+
+	clergymen = {
+		culture = anglo_saxon
+		religion = animist
+		size = 100
+	}
+
+	aristocrats = {
+		culture = anglo_saxon
+		religion = animist
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10
+	}
+
+	officers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10
+	}
+}
+
+302 = { #Sussex
+	farmers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10000
+	}
+
+	artisans = {
+		culture = anglo_saxon
+		religion = animist
+		size = 1000
+	}
+
+	soldiers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 1000
+	}
+
+	clergymen = {
+		culture = anglo_saxon
+		religion = animist
+		size = 100
+	}
+
+	aristocrats = {
+		culture = anglo_saxon
+		religion = animist
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10
+	}
+
+	officers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10
+	}
+}
+
+280 = { #Bernicia 1
+	farmers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10000
+	}
+
+	artisans = {
+		culture = anglo_saxon
+		religion = animist
+		size = 1000
+	}
+
+	soldiers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 1000
+	}
+
+	clergymen = {
+		culture = anglo_saxon
+		religion = animist
+		size = 100
+	}
+
+	aristocrats = {
+		culture = anglo_saxon
+		religion = animist
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10
+	}
+
+	officers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10
+	}
+}
+
+269 = { #Bernicia 2
+	farmers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10000
+	}
+
+	artisans = {
+		culture = anglo_saxon
+		religion = animist
+		size = 1000
+	}
+
+	soldiers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 1000
+	}
+
+	clergymen = {
+		culture = anglo_saxon
+		religion = animist
+		size = 100
+	}
+
+	aristocrats = {
+		culture = anglo_saxon
+		religion = animist
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10
+	}
+
+	officers = {
+		culture = anglo_saxon
+		religion = animist
+		size = 10
+	}
+}
+
+# SOUTH EAST ENGLAND (Breton Regions)
+
+300 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+
+294 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+
+303 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+
+#South West England - Christian Breton Chiefdoms
+296 = {
+	farmers = {
+		culture = breton
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+}
+299 = {
+	farmers = {
+		culture = breton
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+}
+297 = {
+	farmers = {
+		culture = breton
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+}
+298 = {
+	farmers = {
+		culture = breton
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+}
+419 = {
+	farmers = {
+		culture = breton
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+}
+
+#Eastern Counties - Pagan Breton Chiefdoms
+
+291 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+292 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+293 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+295 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+
+#Wales - Christian Breton Chiefdoms
+273 = {
+	farmers = {
+		culture = breton
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+}
+274 = {
+	farmers = {
+		culture = breton
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+}
+275 = {
+	farmers = {
+		culture = breton
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+}
+276 = {
+	farmers = {
+		culture = breton
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = catholic
+		size = 5
+	}
+}
+
+#Midlands - Pagan Breton Chiefdoms
+284 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+286 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+287 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+288 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+289 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+290 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+
+#North East England - Pagan Breton Kingdoms
+277 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+278 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+279 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+285 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+304 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+
+#North East England - Pagan Breton Chiefdoms
+281 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+282 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+283 = {
+	farmers = {
+		culture = breton
+		religion = animist
+		size = 5000
+	}
+
+	artisans = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = breton
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	aristocrats = {
+		culture = breton
+		religion = animist
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = breton
+		religion = animist
+		size = 5
+	}
+}
+
+#  Scotland - Christian Pictish Tribes
+271 = {
+	farmers = {
+		culture = pictish
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	aristocrats = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+
+	officers = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+}
+270 = {
+	farmers = {
+		culture = pictish
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	aristocrats = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+
+	officers = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+}
+272 = {
+	farmers = {
+		culture = pictish
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	aristocrats = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+
+	officers = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+}
+266 = {
+	farmers = {
+		culture = pictish
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	aristocrats = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+
+	officers = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+}
+267 = {
+	farmers = {
+		culture = pictish
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	aristocrats = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+
+	officers = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+}
+268 = {
+	farmers = {
+		culture = pictish
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = pictish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	aristocrats = {
+		culture = pictish
+		religion = catholic
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+
+	officers = {
+		culture = pictish
+		religion = catholic
+		size = 1
+	}
+}
+
+#Ireland - Christian Irish Chiefdoms
+254 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+255 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+256 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+257 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+263 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+258 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+259 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+264 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+265 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+260 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+261 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
+262 = {
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 5
+	}
+}
