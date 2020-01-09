@@ -67,7 +67,7 @@ LUC		= "countries/Lucca.txt"
 MOD		= "countries/Modena.txt"
 PAP		= "countries/Papal States.txt"
 PAR		= "countries/Parma.txt"
-SAR		= "countries/Sardinia-Piedmont.txt"
+# SAR		= "countries/Sardinia-Piedmont.txt"
 SIC		= "countries/Two Sicilies.txt"
 TRE		= "countries/Trieste.txt"
 TUS		= "countries/Tuscany.txt"
@@ -255,6 +255,9 @@ UBD		= "countries/United Baltic Provinces.txt"
 BYE		= "countries/Belarus.txt"
 PLC		= "countries/Poland-Lithuania.txt"
 GCO		="countries/Gran Colombia.txt"
+
+#Postwar Countries
+SAR		= "countries/Saar.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"
