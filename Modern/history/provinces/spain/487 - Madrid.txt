@@ -1,5 +1,8 @@
-
 trade_goods = cattle
 life_rating = 40
 
-
+1479.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	}
