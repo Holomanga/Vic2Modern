@@ -1,16 +1,8 @@
-
-
-
-
 trade_goods = fruit
 life_rating = 35
-naval_base = 1
+
 1861.1.1 = {
-	
-	
-	
-}
-1861.1.1 = { 
-	railroad = 2 
-	naval_base = 2
-}
+	owner = ITA
+	controller = ITA
+	add_core = ITA
+	}
