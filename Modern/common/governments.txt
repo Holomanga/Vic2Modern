@@ -1,51 +1,6 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new forms of governemnts, make sure they are uniquely named.
 
-feudal_monarchy = #christian kingdoms
-{
-	arian = yes
-	chalcedonian = yes
-
-	election = no
-	appoint_ruling_party = yes
-}
-
-barbarian_kingdom = #unreformed germanic/druidist
-{
-	germanic = yes
-	druidist = yes
-
-	election = no
-	appoint_ruling_party = yes	
-}
-
-teikoku = #japanese empire
-{
-	mahayana = yes
-	shinto = yes
-
-	election = no
-	appoint_ruling_party = yes
-}
-
-korean_confederacy = #unreformed muist
-{
-	mahayana = yes
-	muist = yes
-
-	election = no
-	appoint_ruling_party = yes
-}
-
-bureaucracy = #chinese rank system
-{
-	mahayana = yes
-	muist = yes
-
-	election = no
-	appoint_ruling_party = yes
-}
-
 
 proletarian_dictatorship =
 {
@@ -55,8 +10,6 @@ proletarian_dictatorship =
 	election = no
 	appoint_ruling_party = yes
 }
-
-
 
 presidential_dictatorship =
 {
@@ -136,5 +89,3 @@ democracy = {
 	duration = 48
 	appoint_ruling_party = no
 }
- 
-
