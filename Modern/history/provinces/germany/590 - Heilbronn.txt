@@ -1,4 +1,13 @@
 trade_goods = fruit
 life_rating = 40
 
+1945.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = GER
+}
 
+1950.1.1 = {
+	owner = GER
+	controller = GER
+}

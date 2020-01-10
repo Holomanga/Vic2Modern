@@ -258,6 +258,7 @@ GCO		="countries/Gran Colombia.txt"
 
 #Postwar Countries
 SAR		= "countries/Saar.txt"
+DDR		= "countries/East Germany.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"

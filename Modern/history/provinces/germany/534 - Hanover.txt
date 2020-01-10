@@ -1,17 +1,13 @@
-
-
-
-
 trade_goods = fruit
 life_rating = 40
-#state_building = {
-#	level = 1
-#	building = canned_food_factory
-#	upgrade = yes
-#}
-#state_building = {
-#	level = 1
-#	building = liquor_distillery
-#	upgrade = yes
-#}
-1861.1.1 = { railroad = 3 }
+
+1945.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = GER
+}
+
+1950.1.1 = {
+	owner = GER
+	controller = GER
+}

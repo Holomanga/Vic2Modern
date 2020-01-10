@@ -1,7 +1,14 @@
-
-
-
-
 trade_goods = iron
 life_rating = 40
-1861.1.1 = { railroad = 3 }
+
+1945.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = GER
+	add_core = DDR
+}
+
+1950.1.1 = {
+	owner = DDR
+	controller = DDR
+}

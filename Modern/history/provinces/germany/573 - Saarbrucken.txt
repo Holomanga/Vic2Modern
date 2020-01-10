@@ -2,8 +2,13 @@ trade_goods = coal
 life_rating = 40
 
 1945.1.1 = {
-	owner = SAR
-	controller = SAR
+	owner = FRA
+	controller = FRA
 	add_core = SAR
 	add_core = GER
 	}
+
+1956.1.1 = {
+	owner = GER
+	controller = GER
+}

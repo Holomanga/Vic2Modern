@@ -1,6 +1,13 @@
-
-
-
-
 trade_goods = cattle
 life_rating = 40
+
+1945.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = GER
+}
+
+1950.1.1 = {
+	owner = GER
+	controller = GER
+}

@@ -1,8 +1,13 @@
-
-
-
-
 trade_goods = fish
 life_rating = 40
-naval_base = 1
-1861.1.1 = { railroad = 3 }
+
+1945.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = GER
+}
+
+1950.1.1 = {
+	owner = GER
+	controller = GER
+}

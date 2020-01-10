@@ -1,14 +1,13 @@
-
-
-
-
 trade_goods = fish
 life_rating = 40
-#state_building = {
-#	level = 1
-#	building = glass_factory
-#	upgrade = yes
-#}
-1861.1.1 = {
-	naval_base = 1 #Wilhelmshaven
+
+1945.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = GER
+}
+
+1950.1.1 = {
+	owner = GER
+	controller = GER
 }

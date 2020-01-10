@@ -1,24 +1,13 @@
-
-
-
-
 trade_goods = coal
 life_rating = 40
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = steel_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = explosives_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = ammunition_factory
-		upgrade = yes
-	}
+
+1945.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = GER
 }
-1861.1.1 = { railroad = 3 }
+
+1950.1.1 = {
+	owner = GER
+	controller = GER
+}
