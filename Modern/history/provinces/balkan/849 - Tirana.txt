@@ -1,6 +1,8 @@
-
-
-
-
 trade_goods = grain
 life_rating = 35
+
+1928.1.1 = {
+	owner = ALB
+	controller = ALB
+	add_core = ALB
+}
