@@ -2,8 +2,8 @@ trade_goods = fish
 life_rating = 40
 
 1945.1.1 = {
-	owner = ENG
-	controller = ENG
+	owner = USA
+	controller = USA
 	add_core = GER
 }
 
