@@ -1,6 +1,8 @@
-
-
-
-
 trade_goods = iron
 life_rating = 35
+
+1523.1.1 = {
+	owner = SWE
+	controller = SWE
+	add_core = SWE
+}
