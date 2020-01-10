@@ -1,4 +1,13 @@
 trade_goods = timber
 life_rating = 35
 
+1945.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = AUS
+}
 
+1956.1.1 = {
+	owner = AUS
+	controller = AUS
+}
