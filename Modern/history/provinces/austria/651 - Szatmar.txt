@@ -1,8 +1,8 @@
-
-
-
-
-
-
 trade_goods = fruit
 life_rating = 35
+
+1881.1.1 = {
+	owner = ROM
+	add_core = ROM
+	controller = ROM
+}
