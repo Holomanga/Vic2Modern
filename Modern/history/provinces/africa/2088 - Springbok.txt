@@ -1,8 +1,8 @@
 trade_goods = wool
 life_rating = 15
 
-1861.1.1 = {
-	
-	
-	colonial = 2
+1900.1.1 = {
+	owner = SAF
+	controller = SAF
+	add_core = SAF
 }

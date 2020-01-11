@@ -1,2 +1,9 @@
 trade_goods = fish
 life_rating = 10
+
+1800.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	colonial = 2
+}
