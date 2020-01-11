@@ -1,5 +1,8 @@
-
-
-
 trade_goods = wool
 life_rating = 10
+
+1920.1.1 = {
+	owner = ARA
+	controller = ARA
+	add_core = ARA
+}
