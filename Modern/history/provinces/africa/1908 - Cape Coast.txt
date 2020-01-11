@@ -1,5 +1,9 @@
-
-
 trade_goods = coffee
 life_rating = 35
-colonial = 2
+
+1900.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	colonial = 2
+}

@@ -1,10 +1,9 @@
-
-
-
-
 trade_goods = grain
 life_rating = 35
-1861.1.1 = {
-	
-	
+
+1920.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	colonial = 2
 }
