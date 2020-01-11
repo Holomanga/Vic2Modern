@@ -1,11 +1,8 @@
-
-
-
-
 trade_goods = wool
 life_rating = 35
 
-1861.1.1 = {
-	 
-	
+1920.1.1 = {
+	owner = JOR
+	controller = JOR
+	add_core = JOR
 }

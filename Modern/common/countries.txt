@@ -259,6 +259,9 @@ GCO		="countries/Gran Colombia.txt"
 #Postwar Countries
 SAR		= "countries/Saar.txt"
 DDR		= "countries/East Germany.txt"
+SYR		= "countries/Syria.txt"
+LEB		= "countries/Lebanon.txt"
+JOR		= "countries/Jordan.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"
