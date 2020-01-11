@@ -262,6 +262,7 @@ DDR		= "countries/East Germany.txt"
 SYR		= "countries/Syria.txt"
 LEB		= "countries/Lebanon.txt"
 JOR		= "countries/Jordan.txt"
+LBY		= "countries/Libya.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"
