@@ -1,6 +1,8 @@
-
-
-
-
 trade_goods = fruit
 life_rating = 35
+
+1932.1.1 = {
+	owner = IRQ
+	controller = IRQ
+	add_core = IRQ
+}
