@@ -2,7 +2,7 @@ trade_goods = wool
 life_rating = 32
 
 1945.1.1 = {
-	owner = PAK
-	add_core = PAK
-	controller = PAK
+	owner = HND
+	add_core = HND
+	controller = HND
 }
