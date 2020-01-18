@@ -3,3 +3,9 @@
 
 trade_goods = wool
 life_rating = 25
+
+1500.1.1 = {
+	owner = BHU
+	controller = BHU
+	add_core = BHU
+}

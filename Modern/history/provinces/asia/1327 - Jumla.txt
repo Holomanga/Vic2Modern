@@ -1,5 +1,8 @@
-
-
-
 trade_goods = tea
 life_rating = 25
+
+1500.1.1 = {
+	owner = NEP
+	add_core = NEP
+	controller = NEP
+}

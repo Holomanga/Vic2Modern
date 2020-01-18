@@ -1,11 +1,8 @@
-
-
-
-
 trade_goods = tea
 life_rating = 32
-1861.1.1 = {
-	
-	
-	colonial = 2
+
+1945.1.1 = {
+	owner = PAK
+	add_core = PAK
+	controller = PAK
 }
