@@ -1,6 +1,8 @@
-
-
-
 trade_goods = tea
 life_rating = 32
-colonial = 2
+
+1830.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
+}
