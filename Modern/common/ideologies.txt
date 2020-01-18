@@ -1,10 +1,10 @@
 # If you add types, and use those tags, do not change them without changing everywhere they are used.
 
 fascist_group = {
+	
 	fascist = {
 		uncivilized = no
-		color = { 60 60 60 }
-		date = 1905.1.1
+		color = { 150 80 40 }
 	
 		
 		add_political_reform = {
@@ -15,7 +15,6 @@ fascist_group = {
 			}
 		}
 	
-	
 		remove_political_reform = {
 			base = 1
 			modifier = {
@@ -23,7 +22,6 @@ fascist_group = {
 				NOT = { ruling_party_ideology = fascist }
 			}
 		}
-	
 	
 		add_social_reform = {
 			base = 1
@@ -33,7 +31,6 @@ fascist_group = {
 			}
 		}
 	
-	
 		remove_social_reform = {
 			base = 1
 			modifier = {
@@ -41,15 +38,129 @@ fascist_group = {
 				NOT = { ruling_party_ideology = fascist }
 			}
 		}
-		
-		
-		
 	}
+
+	nationalist = {
+		uncivilized = no
+		color = { 5 5 5 }
+	
+		
+		add_political_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = nationalist }
+			}
+		}
+	
+		remove_political_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = nationalist }
+			}
+		}
+	
+		add_social_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = nationalist }
+			}
+		}
+	
+		remove_social_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = nationalist }
+			}
+		}
+	}
+
+	monarchist = {
+		uncivilized = no
+		color = { 70 0 70 }
+	
+		
+		add_political_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = monarchist }
+			}
+		}
+	
+		remove_political_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = monarchist }
+			}
+		}
+	
+		add_social_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = monarchist }
+			}
+		}
+	
+		remove_social_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = monarchist }
+			}
+		}
+	}
+
+	islamist = {
+		uncivilized = no
+		color = { 0 50 0 }
+		date = 1905.1.1
+	
+		
+		add_political_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = islamist }
+			}
+		}
+	
+		remove_political_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = islamist }
+			}
+		}
+	
+		add_social_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = islamist }
+			}
+		}
+	
+		remove_social_reform = {
+			base = 1
+			modifier = {
+				factor = -1
+				NOT = { ruling_party_ideology = islamist }
+			}
+		}
+	}
+
+
 }	
 
 conservative_group = {
 	reactionary = {
-		color = { 30 30 100 }
+		color = { 140 140 140 }
 		
 		add_political_reform = {
 			base = 0
@@ -74,7 +185,7 @@ conservative_group = {
 	}
 	
 	conservative = {
-		color = { 10 10 250 }
+		color = { 0 80 140 }
 		
 		can_reduce_militancy = yes
 		
@@ -235,7 +346,173 @@ conservative_group = {
 socialist_group = {
 	socialist = {
 		uncivilized = no
-		color = { 255 0 0 }
+		color = { 250 160 200 }
+		
+		add_political_reform = {
+			base = 0
+			group = {
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 1
+						political_movement_strength = 0.1
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 2
+						political_movement_strength = 0.2
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 3
+						political_movement_strength = 0.3
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 4
+						political_movement_strength = 0.4
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 5
+						political_movement_strength = 0.5
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 6
+						political_movement_strength = 0.6
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 7
+						political_movement_strength = 0.7
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 8
+						political_movement_strength = 0.8
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 9
+						political_movement_strength = 0.9
+					}
+				}
+			}
+		}
+		remove_political_reform = {
+			base = 0
+		}
+		add_social_reform = {
+			base = 1
+		}
+		remove_social_reform = {
+			base = 0
+		}
+	}
+
+	socdem = {
+		uncivilized = no
+		color = { 255 35 35 }
+		
+		add_political_reform = {
+			base = 0
+			group = {
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 1
+						political_movement_strength = 0.1
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 2
+						political_movement_strength = 0.2
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 3
+						political_movement_strength = 0.3
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 4
+						political_movement_strength = 0.4
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 5
+						political_movement_strength = 0.5
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 6
+						political_movement_strength = 0.6
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 7
+						political_movement_strength = 0.7
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 8
+						political_movement_strength = 0.8
+					}
+				}
+				modifier = {
+					factor = 0.1
+					OR = { 
+						militancy = 9
+						political_movement_strength = 0.9
+					}
+				}
+			}
+		}
+		remove_political_reform = {
+			base = 0
+		}
+		add_social_reform = {
+			base = 1
+		}
+		remove_social_reform = {
+			base = 0
+		}
+	}
+
+	progressive = {
+		uncivilized = no
+		color = { 100 200 10 }
 		date = 1860.1.1
 		
 		add_political_reform = {
@@ -316,11 +593,12 @@ socialist_group = {
 			base = 0
 		}
 	}
-	
+}
+
+communist_group = {
 	communist = {
 		uncivilized = no
-		color = { 150 10 10 }
-		date = 1865.1.1
+		color = { 250 160 200 }
 		
 		add_political_reform = {
 			base = 0
@@ -340,7 +618,7 @@ socialist_group = {
 liberal_group = {
 	
 	liberal = {
-		color = { 255 255 0 }
+		color = { 255 170 30 }
 		
 		
 		add_political_reform = {
@@ -432,8 +710,7 @@ liberal_group = {
 	}
 	
 	anarcho_liberal = {
-		color = { 150 150 10 }
-		date = 1848.1.1
+		color = { 225 215 0 }
 		
 		add_political_reform = {
 			base = 0
