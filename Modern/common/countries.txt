@@ -264,6 +264,7 @@ LEB		= "countries/Lebanon.txt"
 JOR		= "countries/Jordan.txt"
 LBY		= "countries/Libya.txt"
 PAK		= "countries/Pakistan.txt"
+ROC		= "countries/Republic of China.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"
